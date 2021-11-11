@@ -8,4 +8,6 @@ My own Azure resume following ACG video
 
 ```js
 const
+let
+bob
 ```
